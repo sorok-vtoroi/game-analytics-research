@@ -1,0 +1,21 @@
+{
+  "source": "simulation_log_1795012796.csv",
+  "source_type": "real single-session Unity log",
+  "players": 1,
+  "sessions": 1,
+  "events_total": 123,
+  "hits": 62,
+  "misses": 40,
+  "moves": 21,
+  "click_accuracy_percent": 60.784,
+  "reaction_time_unit": "seconds",
+  "reaction_samples": 62,
+  "mean_seconds": 0.925,
+  "median_seconds": 0.612,
+  "std_seconds_sample": 1.369,
+  "q1_seconds": 0.44675,
+  "q3_seconds": 0.8045,
+  "iqr_upper_seconds": 1.34113,
+  "outlier_count": 5,
+  "outlier_rule": "Tukey 1.5 * IQR, inclusive quartiles"
+}
