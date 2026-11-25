@@ -28,6 +28,10 @@ Issues: https://github.com/sorok-vtoroi/game-analytics-research/issues
 
 Pull Requests: https://github.com/sorok-vtoroi/game-analytics-research/pulls
 
+**Проверенные факты:** Все Issues #1–#6 закрыты. PR [#7](https://github.com/sorok-vtoroi/game-analytics-research/pull/7) (исходные данные), [#8](https://github.com/sorok-vtoroi/game-analytics-research/pull/8) (анализ и тесты), [#9](https://github.com/sorok-vtoroi/game-analytics-research/pull/9) (документация) объединены в `main`. Для PR #8 GitHub Actions выполнил проверку с результатом `success`.
+
+Собственные комментарии проверки в PR не являются независимым code review. GitHub Project, Wiki и Discussions через подключённый инструмент не создавались.
+
 Документация для Wiki: `docs/wiki/`. Ввиду отсутствия действия создания Wiki/Projects/Discussions в доступном подключении эти сущности **не следует считать созданными** без отдельной проверки в интерфейсе GitHub.
 
 ## Распределение работы и ограничения
